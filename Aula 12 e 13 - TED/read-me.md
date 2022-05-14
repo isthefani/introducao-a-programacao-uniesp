@@ -1,0 +1,1 @@
+Resolução da questão do TED - AULA 12 e 13 da grade curricular Introdução à Programação do professor Messias Rafael Batista.
